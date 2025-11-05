@@ -1,16 +1,25 @@
 # wallpaper_app
 
-A new Flutter project.
+ Project Overview
 
-## Getting Started
+Wallpaper Studio is a modern, responsive application built with Flutter to showcase curated digital wallpapers. The core feature is its fully adaptive UI that adjusts the layout based on screen size (desktop, tablet, and mobile).
 
-This project is a starting point for a Flutter application.
+ Setup and Installation
+This is a Flutter project. You will need the Flutter SDK (version 3.x+) installed to run the application.
 
-A few resources to get you started if this is your first Flutter project:
+Prerequisites: Ensure Flutter is installed and configured correctly.
+File Structure: The application code is conceptually split into five files (main.dart, home_screen.dart, category_details_screen.dart, common_widgets.dart, and data_models.dart) within the lib/ directory.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Run the App (Web Recommended):
+flutter build windows
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+How to Test:
+Start the app and navigate to the Home screen. Observe the number of category columns.
+Click a category to enter the Details screen. Observe the layout of the Wallpaper Grid next to the Phone Preview.
+Resize the browser window slowly: Watch how the grid columns change (3 -> 2 -> 1) and how the Details screen switches from a side-by-side row to a stacked column when the width drops below 1000px and 600px, respectively.
+
+GitHub repo: https://github.com/silaswisdom/wallpaper_app.git
+
+APK link: https://drive.google.com/file/d/1nXtc8xXezm-EHqLPyxo6YsRVAYC2rIZp/view?usp=sharing
+
+Demo video: https://drive.google.com/file/d/19jHCYFM4NH_gCBHp9H1wRYaHpXLAicmq/view?usp=sharing
