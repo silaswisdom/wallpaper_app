@@ -23,3 +23,5 @@ GitHub repo: https://github.com/silaswisdom/wallpaper_app.git
 APK link: https://drive.google.com/file/d/1nXtc8xXezm-EHqLPyxo6YsRVAYC2rIZp/view?usp=sharing
 
 Demo video: https://drive.google.com/file/d/19jHCYFM4NH_gCBHp9H1wRYaHpXLAicmq/view?usp=sharing
+
+figma link: [https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=1-546&t=UDPzg4yV1vEvIFPw-0](https://www.figma.com/design/WnHFPfZ7uW2vxy4sHqtb12/MOBILE-WALLPAPER-SELECTOR?node-id=0-1&p=f&t=2uDO3enoMFIThi2n-0)
